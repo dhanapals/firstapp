@@ -1,4 +1,4 @@
-a = 20;
+a = 18;
 b = 15;
 c = a + b;
 console.log(c);
